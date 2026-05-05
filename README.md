@@ -109,5 +109,6 @@ Models are evaluated using:
 
 The notebook reports example results (Neural Network slightly better than Linear Regression):
 
-- NN: MSE ~ 4.75, R² ~ 0.54 (all features)
-- Poly Regression: MSE ~ 5.16, R² ~ 0.56 (removed outliers and all features)
+(stategy: removed outliers and all features)
+- NN: MSE ~ 4.75, R² ~ 0.55 
+- Poly Regression: MSE ~ 5.16, R² ~ 0.56 
